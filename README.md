@@ -7,7 +7,7 @@ SOON
 
 ## 📁 Repository Structure
 
-* `/data`: Procruste coordinates (`.txt` file).
+* `/data`: Procrustes coordinates (`.txt` file).
 * `/scripts`: R code for data processing, Procrustes alignment, and multivariate statistics.
 
 ## 📄 Citation
