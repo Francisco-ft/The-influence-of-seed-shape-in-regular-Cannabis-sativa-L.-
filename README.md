@@ -2,7 +2,8 @@
 
 This repository contains the data, statistical scripts, and methodology used in the study of seed morphology as a biomarker for *Cannabis sativa* L. varieties.
 
-## 📝 Abstract (SOON)
+## 📝 Abstract 
+SOON
 
 ## 📁 Repository Structure
 
