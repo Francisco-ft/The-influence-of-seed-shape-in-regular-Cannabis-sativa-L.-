@@ -7,7 +7,7 @@ SOON
 
 ## 📁 Repository Structure
 
-* `/data`: Raw coordinates (`.tps` or `.csv` files) containing landmarks and semilandmarks.
+* `/data`: Procruste coordinates (`.txt` file).
 * `/scripts`: R code for data processing, Procrustes alignment, and multivariate statistics.
 
 ## 📄 Citation
