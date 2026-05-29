@@ -13,6 +13,7 @@ This repository contains the data used in the study of seed morphology as a biom
 ## 📁 Repository Structure
 
 * `/data`: Procrustes coordinates (`.txt` file).
+* `/data/seeds-images`: Seeds Images (`---M.jpg` and `---N.jpg` files).
 
 ## 📄 Citation
 
