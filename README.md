@@ -1,4 +1,4 @@
-# Can Cannabis sativa seed morphometrics discriminate among variety, sex, and chemotype of the adult plant?
+# Can seed morphometrics discriminate among variety, sex, and chemotype in non-feminized Cannabis sativa?
 
 This repository contains the data used in the study of seed morphology as a biomarker for *Cannabis sativa* L. varieties.
 
